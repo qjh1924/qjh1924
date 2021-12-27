@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a graduate student in the college of computer science, Sichuan University
-- 😄 My main research direction is computer vision, specifically the use of deep learning or generative adversarial networks to achieve color constancy
+- 😄 My main research direction is computer vision, specifically deep learning or generative adversarial networks to achieve **color constancy**
 - 🌱 I’m currently learning NodeJS/React/Vue
 - 📫 How to reach me: [qiujianhui.top](http://qiujianhui.top)
 
