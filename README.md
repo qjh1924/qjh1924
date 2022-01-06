@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a graduate student in the college of computer science, Sichuan University
 - 😄 My main research direction is computer vision, specifically deep learning or generative adversarial networks to achieve **color constancy**
 - 🌱 I’m currently learning NodeJS/React/Vue
-- 📫 How to reach me: [qiujianhui.top](http://qiujianhui.top)
+- 📫 How to reach me: [qiujianhui.cn](http://qiujianhui.cn)
 
 [![](https://github-readme-stats.vercel.app/api?username=qjh1924&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=qjh1924&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
