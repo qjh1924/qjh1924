@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a graduate student in the College of Computer Science, Sichuan University
+- 🔭 I’m currently currently working at CCBFT as a junior developer
 - 😄 My main research direction is computer vision, specifically deep learning or generative adversarial networks to achieve **color constancy**
 - 🌱 I’m currently learning Java/NodeJS/Vue/React
 - 📫 How to reach me: [qiujianhui.cn](http://qiujianhui.cn)
